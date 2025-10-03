@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\Development\\c#\\Projects\\PresentationLayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4EE1585-2CCF-433C-A718-19E6F7822C3F}|Solution Items{A4EE1585-2CCF-433C-A718-19E6F7822C3F}|C:\\Users\\MSI\\Desktop\\Development\\c#\\Projects\\PresentationLayer\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A4EE1585-2CCF-433C-A718-19E6F7822C3F}|Solution Items{A4EE1585-2CCF-433C-A718-19E6F7822C3F}|solutionrelative:.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9594193-9598-48ED-A81D-B4B2869AB664}|PresentationLayer.csproj|C:\\Users\\MSI\\Desktop\\Development\\c#\\Projects\\PresentationLayer\\driving licenses\\frmlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9594193-9598-48ED-A81D-B4B2869AB664}|PresentationLayer.csproj|solutionrelative:driving licenses\\frmlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9594193-9598-48ED-A81D-B4B2869AB664}|PresentationLayer.csproj|C:\\Users\\MSI\\Desktop\\Development\\c#\\Projects\\PresentationLayer\\driving licenses\\frmlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9594193-9598-48ED-A81D-B4B2869AB664}|PresentationLayer.csproj|solutionrelative:driving licenses\\frmlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54503CC7-A25C-4A80-943C-04430189205C}|..\\BussinessLayer\\BussinessLayer.csproj|c:\\users\\msi\\desktop\\development\\c#\\projects\\bussinesslayer\\clsdetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44D4A3-AABC-4560-BA44-9943B057F46D}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\msi\\desktop\\development\\c#\\projects\\dataaccesslayer\\clsdetainedlicensedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9594193-9598-48ED-A81D-B4B2869AB664}|PresentationLayer.csproj|C:\\Users\\MSI\\Desktop\\Development\\c#\\Projects\\PresentationLayer\\driving licenses\\frmlicensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9594193-9598-48ED-A81D-B4B2869AB664}|PresentationLayer.csproj|solutionrelative:driving licenses\\frmlicensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9594193-9598-48ED-A81D-B4B2869AB664}|PresentationLayer.csproj|C:\\Users\\MSI\\Desktop\\Development\\c#\\Projects\\PresentationLayer\\driving licenses\\frmreleasedetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9594193-9598-48ED-A81D-B4B2869AB664}|PresentationLayer.csproj|solutionrelative:driving licenses\\frmreleasedetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 134,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore.txt",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Development\\c#\\Projects\\PresentationLayer\\.gitignore.txt",
+              "RelativeDocumentMoniker": ".gitignore.txt",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Development\\c#\\Projects\\PresentationLayer\\.gitignore.txt",
+              "RelativeToolTip": ".gitignore.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-03T13:13:56.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsDetainedLicense.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Development\\c#\\Projects\\BussinessLayer\\clsDetainedLicense.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayer\\clsDetainedLicense.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Development\\c#\\Projects\\BussinessLayer\\clsDetainedLicense.cs",
+              "RelativeToolTip": "..\\BussinessLayer\\clsDetainedLicense.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAgwHwAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:43:32.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmLicenseHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Development\\c#\\Projects\\PresentationLayer\\Driving Licenses\\frmLicenseHistory.cs",
+              "RelativeDocumentMoniker": "Driving Licenses\\frmLicenseHistory.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Development\\c#\\Projects\\DVLD\\Driving Licenses\\frmLicenseHistory.cs [Design]",
+              "RelativeToolTip": "..\\DVLD\\Driving Licenses\\frmLicenseHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:50:01.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsDetainedLicenseDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Development\\c#\\Projects\\DataAccessLayer\\clsDetainedLicenseDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\clsDetainedLicenseDataAccess.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Development\\c#\\Projects\\DataAccessLayer\\clsDetainedLicenseDataAccess.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\clsDetainedLicenseDataAccess.cs",
+              "ViewState": "AgIAANkBAAAAAAAAAAAwwO0BAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:39:12.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmListDetainedLicenses.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Development\\c#\\Projects\\PresentationLayer\\Driving Licenses\\frmListDetainedLicenses.cs",
+              "RelativeDocumentMoniker": "Driving Licenses\\frmListDetainedLicenses.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Development\\c#\\Projects\\PresentationLayer\\Driving Licenses\\frmListDetainedLicenses.cs",
+              "RelativeToolTip": "Driving Licenses\\frmListDetainedLicenses.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAswHMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:01:53.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmListDetainedLicenses.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Development\\c#\\Projects\\PresentationLayer\\Driving Licenses\\frmListDetainedLicenses.cs",
+              "RelativeDocumentMoniker": "Driving Licenses\\frmListDetainedLicenses.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Development\\c#\\Projects\\DVLD\\Driving Licenses\\frmListDetainedLicenses.cs [Design]",
+              "RelativeToolTip": "..\\DVLD\\Driving Licenses\\frmListDetainedLicenses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:02:03.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmReleaseDetainedLicense.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Development\\c#\\Projects\\PresentationLayer\\Driving Licenses\\frmReleaseDetainedLicense.cs",
+              "RelativeDocumentMoniker": "Driving Licenses\\frmReleaseDetainedLicense.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Development\\c#\\Projects\\DVLD\\Driving Licenses\\frmReleaseDetainedLicense.cs [Design]",
+              "RelativeToolTip": "..\\DVLD\\Driving Licenses\\frmReleaseDetainedLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:52:50.384Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

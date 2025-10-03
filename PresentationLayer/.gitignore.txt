@@ -1,0 +1,23 @@
+# Ignore Visual Studio temporary files, build results, and user-specific files 
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+# Ignore build output directories 
+bin/
+obj/
+
+# Ignore debug and release folders 
+[Dd]ebug/
+[Rr]elease/
+
+# Ignore compiled files 
+*.exe
+*.dll
+*.pdb
+
+# Ignore NuGet packages 
+*.nupkg
+packages/
