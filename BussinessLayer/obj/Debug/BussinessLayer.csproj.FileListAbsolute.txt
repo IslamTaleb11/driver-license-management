@@ -1,0 +1,9 @@
+C:\Users\MSI\Desktop\Development\c#\Projects\BussinessLayer\bin\Debug\BussinessLayer.dll
+C:\Users\MSI\Desktop\Development\c#\Projects\BussinessLayer\bin\Debug\BussinessLayer.pdb
+C:\Users\MSI\Desktop\Development\c#\Projects\BussinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\MSI\Desktop\Development\c#\Projects\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\MSI\Desktop\Development\c#\Projects\BussinessLayer\obj\Debug\BussinessLayer.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Development\c#\Projects\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Development\c#\Projects\BussinessLayer\obj\Debug\Bussines.E1038C4E.Up2Date
+C:\Users\MSI\Desktop\Development\c#\Projects\BussinessLayer\obj\Debug\BussinessLayer.dll
+C:\Users\MSI\Desktop\Development\c#\Projects\BussinessLayer\obj\Debug\BussinessLayer.pdb
