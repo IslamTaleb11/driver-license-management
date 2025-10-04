@@ -120,7 +120,7 @@ Each test includes:
 ## 🛠️ Built With
 - **C# .NET (Windows Forms)**  
 - **SQL Server** (for database management)  
-- **Entity Framework / ADO.NET** (for database connectivity)  
+- **ADO.NET** (for database connectivity)  
 - **Visual Studio** (for development)  
 - **3-Tier Architecture** (UI Layer, Business Logic Layer, Data Access Layer)  
 
